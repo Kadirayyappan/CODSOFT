@@ -1,2 +1,11 @@
-# CODSOFT - DAta Science Internship
-Task 1
+# CODSOFT DS Internship
+
+Task 1 - Titanic survival prediction
+This project focuses on predicting the survival of Titanic passengers using machine learning techniques. By analyzing historical data, we aim to build a model that accurately estimates the likelihood of survival based on features like age, gender, ticket class, fare, and cabin. Through data preprocessing, feature engineering, and model training, this project provides insights into the factors influencing survival rates. Additionally, it highlights the challenges of handling missing data and imbalanced classes. By understanding these principles, developers can improve their skills in creating predictive models and gain a deeper appreciation for the complexities of historical data analysis.
+
+
+Task 2- Movie Rating Prediction
+This project focuses on predicting the rating of a movie based on features like genre, director, and actors using regression techniques. The goal is to analyze historical movie data and develop a model that accurately estimates the ratings given by users or critics. This project enables exploration of data analysis, preprocessing, feature engineering, and machine learning modeling techniques. It provides insights into the factors influencing movie ratings and allows for the creation of a model capable of accurately predicting movie ratings. By understanding these principles, developers can improve their skills in building predictive models and analyzing movie data.
+
+Task 3- Credit Card Fraud Detection
+This project aims to build a machine learning model for detecting fraudulent credit card transactions. By preprocessing and normalizing transaction data, addressing class imbalance, and splitting the dataset into training and testing sets, the project sets out to train a classification algorithm such as logistic regression or random forests. Evaluation of the model's performance includes metrics like precision, recall, and F1-score. Techniques such as oversampling or undersampling are considered to improve detection accuracy and mitigate the impact of class imbalance. This project provides insights into handling sensitive financial data and implementing effective fraud detection systems using machine learning techniques.
